@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.staging.clubworx.app",
+      "sha256_cert_fingerprints": [
+        "9A:EE:CD:B3:4F:41:F5:C9:67:A2:01:B4:25:B7:99:B6:D9:6A:98:8D:2F:18:8D:3F:63:1D:3A:AB:22:12:16:10"
+      ]
+    }
+  }
+]
